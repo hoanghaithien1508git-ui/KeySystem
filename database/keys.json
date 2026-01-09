@@ -1,0 +1,16 @@
+{
+  "ASTRA-001": {
+    "sold": true,
+    "lifetime": false,
+    "expires_at": "2026-02-01",
+    "hwid": null,
+    "status": "active"
+  },
+  "ASTRA-LIFE-999": {
+    "sold": true,
+    "lifetime": true,
+    "expires_at": null,
+    "hwid": null,
+    "status": "active"
+  }
+  }
